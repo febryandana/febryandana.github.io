@@ -4,26 +4,8 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+My name is Moch. Febryandana Nurfahri. Born in East Java, Indonesia. I love learning computer stuff. But I'm such a generalist that didn't master only one thing. I like to learning whatever pick my interest.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+For now, I like to explore the Infrastructure and DevOps's domain. In this digital era, I realize that everything would need computerization and internet. And I want to be a part of it, to be someone useful. Hence why I trying to learn computer stuff, network infrastructure, devops, system administration, etc.
 
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Apart from those, I also like to juggling with IoT, microcontroller, and stuff. I love to create and break something, even if it's useless. Because that way I can try to make something new, something that maybe useful.
