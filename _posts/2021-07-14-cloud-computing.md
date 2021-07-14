@@ -1,21 +1,19 @@
 ---
 layout: post
-title: Cloud Computing
-description: Mengenal Cloud Computing
+title: Mengenal Cloud Computing
 comment: false
-keyword: cloud
+keyword: [Cloud, Server]
 --- 
 
-> THERE IS NO CLOUD, It's Just Someone Else's Computer
-
+THERE IS NO CLOUD, It's Just Someone Else's Computer  
 *or is it?*  
 Untuk mengetahuinya, kita harus memahami dulu tentang cloud computing. Apa itu cloud computing? Kenapa namanya cloud? Apakah komputernya memang ada di awan?
 
 * * *
 
-<img src="/_posts/_resources/cloud-computing_Ilust.jpg" alt="cloud-computing_Ilust.jpg" width=640>
-
 ## Apa Itu Cloud Computing?
+
+![](../images/2021-07-14-cloud-computing/2021-07-14-cloud-computing_1.jpg)
 
 Menurut [newyorker.com](https://www.newyorker.com/books/page-turner/how-the-metaphor-of-the-cloud-changed-our-attitude-toward-the-internet), istilah cloud (awan) adalah simbol, sebagai metafora bahwa data kita ada di suatu tempat di luar sana, melayang, mengambang, berpindah-pindah, dan selalu ada kapan saja dan dimana saja saat kita membutuhkannya. Istilah awan juga menarik dan menggugah benak orang karena merupakan antonim dari dunia nyata dengan material yang nyata colokan, kabel, hard disk drive, dan sebagainya.
 
@@ -27,7 +25,7 @@ Biasanya, jika kita ingin membuat suatu data center atau server untuk suatu laya
 
 ## Jenis-Jenis Cloud Computing
 
-Model penerapan (deployment) Cloud Computing secara umum terbagi menjadi 3 jenis: Public Cloud, Private Cloud, dan Hybrid Cloud.
+Model penerapan (deployment) cloud computing secara umum terbagi menjadi 3 jenis: Public Cloud, Private Cloud, dan Hybrid Cloud.
 
 ### Public Cloud
 
@@ -41,7 +39,7 @@ Model Private Cloud lebih mirip seperti On-Premise. Ketika menggunakan model Pri
 
 Hybrid Cloud adalah gabungan dari Public Cloud dan Private Cloud. Pendekatan seperti ini dapat digunakan untuk banyak situasi seperti aturan yang mengharuskan adanya data yang disimpan di data center lokal, penggunaan fungsi backup, atau untuk meningkatkan keamanan dengan menyimpan data penting dan rahasia di data center on-premise sementara aplikasinya diletakkan di public cloud untuk menjangkau pengguna secara cepat.
 
-<img src="/_posts/_resources/cloud-computing_Deployment-Model.png" alt="cloud-computing_Deployment-Model.png" width=640>
+![](../images/2021-07-14-cloud-computing/2021-07-14-cloud-computing_2.png)
 
 Selain dari model penerapannya, cloud computing juga dapat dibagi dari model arsitektur atau layanannya, yaitu Iaas, Paas, dan SaaS.
 
@@ -61,9 +59,10 @@ Selain 3 di atas ada pula model arsitektur lain seperti **Database as a Service*
 
 Di bawah ini adalah visualisasi perbandingan antara On-Premise, IaaS, PaaS, dan SaaS dari segi manajemennya:
 
-<img src="/_posts/_resources/cloud-computing_Architectures.png" alt="cloud-computing_Architectures.png" width=640>
+![](../images/2021-07-14-cloud-computing/2021-07-14-cloud-computing_3.png)
 
 * * *
+
 ## Plus-Minus dari Cloud Computing
 
 Ada banyak sekali manfaat dan kelebihan dari pemanfaatan cloud computing, beberapa di antaranya adalah :
@@ -92,4 +91,6 @@ Namun dengan segala kelebihannya tersebut, cloud computing tetap memiliki bebera
 5. Locked vendor
 	Meskipun cloud provider memiliki layanan migrasi atau integrasi dengan cloud provider lain, kebanyakan cukup merepotkan dan cenderung disulitkan karena cloud provider pun tidak ingin kehilangan pengguna potensialnya. Selain itu perbedaan cloud provider dapat menyebabkan munculnya masalah inkompatibilitas, perbedaan hardware/software, masalah support, dan lain-lain.
 
-Dengan semua kekurangan dan kelebihannya tersebut, tidak dapat dipungkiri bahwa cloud computing masih menjadi topik yang hangat dibicarakan dan tetap menjadi primadona untuk meluncurkan aplikasi-aplikasi ke dunia. Banyak sekali aplikasi raksasa di dunia yang memilih untuk memanfaatkan cloud computing ketimbang membuat data center-nya sendiri.
+Dengan semua kekurangan dan kelebihannya tersebut, tidak dapat dipungkiri bahwa cloud computing masih menjadi topik yang hangat dibicarakan dan tetap menjadi primadona untuk meluncurkan aplikasi-aplikasi ke dunia.
+
+Jadi apakah cloud computing hanya komputer milik orang lain? Jawaban dari pertanyaan ini bisa "ya" dan bisa "tidak". "Ya" jika kita menggunakan model public cloud, dimana kita hanya meminjam tempat di server fisik untuk menjalankan server virtual. "Tidak" jika kita menggunakan model private cloud karena perangkat cloud-nya benar-benar hanya digunakan oleh kita saja.
