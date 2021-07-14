@@ -61,7 +61,7 @@ Selain 3 di atas ada pula model arsitektur lain seperti **Database as a Service*
 
 Di bawah ini adalah visualisasi perbandingan antara On-Premise, IaaS, PaaS, dan SaaS dari segi manajemennya:
 
-<img src="/_post/_resources/cloud-computing_Architectures.png" alt="cloud-computing_Architectures.png" width=640>
+<img src="/_posts/_resources/cloud-computing_Architectures.png" alt="cloud-computing_Architectures.png" width=640>
 
 * * *
 ## Plus-Minus dari Cloud Computing
