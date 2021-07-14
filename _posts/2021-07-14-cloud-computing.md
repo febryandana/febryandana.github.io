@@ -13,7 +13,7 @@ Untuk mengetahuinya, kita harus memahami dulu tentang cloud computing. Apa itu c
 
 * * *
 
-<img src="./_resources/cloud-computing_Ilust.jpg" alt="cloud-computing_Ilust.jpg" width=640>
+<img src="/_posts/_resources/cloud-computing_Ilust.jpg" alt="cloud-computing_Ilust.jpg" width=640>
 
 ## Apa Itu Cloud Computing?
 
@@ -41,7 +41,7 @@ Model Private Cloud lebih mirip seperti On-Premise. Ketika menggunakan model Pri
 
 Hybrid Cloud adalah gabungan dari Public Cloud dan Private Cloud. Pendekatan seperti ini dapat digunakan untuk banyak situasi seperti aturan yang mengharuskan adanya data yang disimpan di data center lokal, penggunaan fungsi backup, atau untuk meningkatkan keamanan dengan menyimpan data penting dan rahasia di data center on-premise sementara aplikasinya diletakkan di public cloud untuk menjangkau pengguna secara cepat.
 
-<img src="./_resources/cloud-computing_Deployment-Model.png" alt="cloud-computing_Deployment-Model.png" width=640>
+<img src="/_posts/_resources/cloud-computing_Deployment-Model.png" alt="cloud-computing_Deployment-Model.png" width=640>
 
 Selain dari model penerapannya, cloud computing juga dapat dibagi dari model arsitektur atau layanannya, yaitu Iaas, Paas, dan SaaS.
 
@@ -61,7 +61,7 @@ Selain 3 di atas ada pula model arsitektur lain seperti **Database as a Service*
 
 Di bawah ini adalah visualisasi perbandingan antara On-Premise, IaaS, PaaS, dan SaaS dari segi manajemennya:
 
-![cloud-computing_Architectures.png](./_resources/cloud-computing_Architectures.png)
+<img src="/_post/_resources/cloud-computing_Architectures.png" alt="cloud-computing_Architectures.png" width=640>
 
 * * *
 ## Plus-Minus dari Cloud Computing
