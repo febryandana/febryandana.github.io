@@ -1,8 +1,12 @@
-Cloud Computing
+---
+layout: post
+title: Cloud Computing
+description: Mengenal Cloud Computing
+comment: false
+keyword: cloud
+--- 
 
-# Cloud Computing
-
-## THERE IS NO CLOUD, It's Just Someone Else's Computer
+> THERE IS NO CLOUD, It's Just Someone Else's Computer
 
 *or is it?*  
 Untuk mengetahuinya, kita harus memahami dulu tentang cloud computing. Apa itu cloud computing? Kenapa namanya cloud? Apakah komputernya memang ada di awan?
